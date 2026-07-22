@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bjdngoendml64"]
+
+[ext_resource type="PackedScene" uid="uid://cfss5j87kgpjh" path="res://scenes/assets/bunny.tscn" id="1_377w7"]
+
+[node name="Main" type="Node2D" unique_id=248065196]
+
+[node name="Bunny" parent="." unique_id=1765003913 instance=ExtResource("1_377w7")]
+position = Vector2(132, 104)

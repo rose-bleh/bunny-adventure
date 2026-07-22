@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Bunny Adventure"
+run/main_scene="uid://bjdngoendml64"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
@@ -21,7 +22,7 @@ window/stretch/aspect="expand"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
+enabled=PackedStringArray("res://addons/AsepriteWizard/plugin.cfg", "res://addons/godot_super-wakatime/plugin.cfg")
 
 [physics]
 
