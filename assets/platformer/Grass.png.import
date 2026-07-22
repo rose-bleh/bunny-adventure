@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0ip4rjgbsh84"
-path="res://.godot/imported/BunnyRun-Sheet.png-a11fae38c882bbd66339c1b9bf3fbe1a.ctex"
+uid="uid://lkllg5hel6bg"
+path="res://.godot/imported/Grass.png-e1367fe590b0a4d4059ac6bb1bf87a27.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/BunnyRun-Sheet.png"
-dest_files=["res://.godot/imported/BunnyRun-Sheet.png-a11fae38c882bbd66339c1b9bf3fbe1a.ctex"]
+source_file="res://assets/platformer/Grass.png"
+dest_files=["res://.godot/imported/Grass.png-e1367fe590b0a4d4059ac6bb1bf87a27.ctex"]
 
 [params]
 
